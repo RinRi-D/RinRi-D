@@ -9,6 +9,4 @@ I am a Computer Science student from Kazakhstan studying at Innopolis University
 
 # Links:
  - Personal Website: [rinri-d.xyz](https://rinri-d.xyz)
- - Mastodon: [@rinri@fosstodon.org](https://fosstodon.org/@rinri)
  - Codeforces: [RinRi](https://codeforces.com/profile/RinRi)
- - Gitea: [RinRi](https://git.rinri-d.xyz/rinri/)
